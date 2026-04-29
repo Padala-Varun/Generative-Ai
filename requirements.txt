@@ -1,0 +1,21 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# Only Google LLM
+langchain-google-genai
+
+# RAG / embeddings
+faiss-cpu
+tiktoken
+
+# Backend
+fastapi
+uvicorn
+requests
+
+# Utils
+python-dotenv
+langchain-huggingface
+langchain_huggingface
