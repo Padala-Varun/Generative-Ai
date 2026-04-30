@@ -23,3 +23,4 @@ while True:
     messages.append(response.content)
 
     print("Bot = ",response.content)
+print("Messages:", messages)
