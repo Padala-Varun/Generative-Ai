@@ -19,3 +19,4 @@ requests
 python-dotenv
 langchain-huggingface
 langchain_huggingface
+langchain langchain-huggingface sentence_transformers
